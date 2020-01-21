@@ -12,7 +12,7 @@ API Data
 	https://maps.googleapis.com/maps/api/geocode/json?
 
 The Data Files used for this project are as below.<br>
-•	<b>listings.csv </b> : This file contains data about the Airbnb Host, listing and Property Information’s. It also includes reviews scores & availability details of the property. <br>
+•	<b>listings.csv </b> : This file contains data about the Airbnb Host, listing and Property Information. It also includes reviews scores & availability details of the property. <br>
 •	<b> reviews.csv </b> : This file contains property review information. <br>
 •	<b> calendar.csv </b> : This file contains data on Property availability and its price information for the future year. <br><br>
 I used the <b> Yelp and Google api </b> to retrieve the top rated restaurants/café/bars for each listing.

@@ -1,16 +1,5 @@
 # <ins> Futuristic-Airbnb-ETL </ins>
 
-## <ins> Project Goal  </ins>
-
-(ETL) is the general procedure of copying data from one or more sources into a destination system, which represents the data differently from the source(s) or in a different context than the source(s). <br> <br>
-Our Project Aim is to perform the below activities as part of ETL phase.<br> 
-
-	<b>Extract</b> is the process of extracting data from multiple and different types of sources. <br>
-
-	<b>Transform</b> is the process of converting the extracted data from its previous form into the form it needs to be in so that it can be placed into a target database. Transformation occurs by using rules or lookup tables or by combining the data with other data. <br>
-
-	<b>Load</b> is the process of writing the data into the target database. <br>
-
 ## <ins> Source Data </ins>
 
 The Data Set Used for the Project:
